@@ -1,0 +1,13 @@
+This project is a template for the investigation of Amdahl's law.
+
+In this demonstration, the system speedup is plotted as a function of f and k.
+
+To complete this project, download the source code from GitHub https://github.com/huiannie/Amdahl, and improve on one or more of the following areas:
+
+1. improve the visibility of the graphs (such as through adding a zoom feature or using a log scale) for large input values of k.
+
+2. add a calculator feature that enables the user to enter exact values of f and k to compute S.
+
+3. demonstrate a comparison between Amdahl's law and other alternative models such as Gustafson's law.
+
+
